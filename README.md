@@ -4,10 +4,10 @@ There are 5 templates that mostly share the same modules, just in slightly diffe
 
 ## Colors:
 
-Light Blue: #E5E5ED
+Light Blue: `#E5E5ED`
 
-Blue: #8291F0
+Blue: `#8291F0`
 
-Red: #FF4A45
+Red: `#FF4A45`
 
-Black: #141414
+Black: `#141414`
